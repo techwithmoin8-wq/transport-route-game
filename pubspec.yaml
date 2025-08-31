@@ -1,0 +1,13 @@
+name: transport_route_game
+description: A simple transport route optimization puzzle game
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
